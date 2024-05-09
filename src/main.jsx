@@ -10,6 +10,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     <BrowserRouter>
       <PlayerContextProvider>
         <App />
+
       </PlayerContextProvider>
 
     </BrowserRouter>
